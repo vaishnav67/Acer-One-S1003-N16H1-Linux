@@ -6,7 +6,7 @@ The easiest one to install was Fedora Workstation 33.
 # After installation, my touchscreen doesn't work?!
 Update your OS from "Software"
 
-# Bluetooth starts but I can't find/ devices can't find me?!
+# Bluetooth starts but I can't find / devices can't find me?!
 Type this in your terminal
 ```
 dmesg | grep -i 'blue'
